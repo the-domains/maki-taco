@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.578853
+  lightness: 0.7747909
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#9EFF00'
+    - '#FC4201'
+    - '#FF733A'
+    - '#FF9B69'
+  rhythmicContrast: 0.5764635
+typography_spectrum: 0.2550777
+name: Maki Taco
