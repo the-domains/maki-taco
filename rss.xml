@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Maki Taco]]></title>
         <description><![CDATA[Maki Taco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maki-taco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 01:24:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 01:29:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maki-taco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>We always prefer you contact us via email info@makitaco.com 704.380.0381 Twitter Facebook Catering/Event Request Nothing is more exciting than having Maki Taco Food Truck at your next party or event. Maki Taco truck is perfect for weddings, birthday parties, corporate events, and more.</p><img src="http://static.tumblr.com/699227c7c65e9a1a3f29f84d69a51869/rr7xlbl/2nGnkkmq7/tumblr_static_3tyoc0vnprk0o00g4osggskkc.png"></article>]]></description>
+            <link>https://thegrid.ai/maki-taco/contact/index.html</link>
+            <guid isPermaLink="false">b8fd8f71-0411-4116-820e-3c231b9efb7d</guid>
+            <pubDate>Sun, 14 Feb 2016 01:28:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magical spices for our white sauce]]></title>
-            <description><![CDATA[<article><h1>Magical spices for our white sauce</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7e05d5720df533180e23405ed2299dfb895b0f0.png"></article>]]></description>
-            <link>undefinedmagical-spices-for-our-white-sauce/index.html</link>
+            <description><![CDATA[<article><h1>Magical spices for our white sauce</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b43ea31d48baadbe10aecfbd8a6269144f1cdc2.png"></article>]]></description>
+            <link>https://thegrid.ai/maki-taco/magical-spices-for-our-white-sauce/index.html</link>
             <guid isPermaLink="false">deda7a12-bf8c-4773-8427-130d1c16c8fa</guid>
             <pubDate>Sun, 14 Feb 2016 01:22:51 GMT</pubDate>
         </item>
